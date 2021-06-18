@@ -1,0 +1,15 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: noderednvdyw20210616optum
+  buildpack: nodejs_buildpack
+  command: npm start
+  disk_quota: 1G
+  memory: 2000MB
+  domain: eu-gb.mybluemix.net
+  host: node-red-nvdyw-2021-06-16-optum
+  services:
+    - node-red-nvdyw-2021--cloudant-1623857013362-32355
+  env:
+    OPTIMIZE_MEMORY: true
