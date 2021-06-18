@@ -42,6 +42,10 @@
 - Integration of image processing to segregate based on product [Recyclable/Non-Recyclable] types
 - Integration of waste collection portal with RFID to optimize data collection speed and integrity, enabling pay-as-you-throw and recycling incentive programs.
 
+### You-tube videos:
+```
+https://www.youtube.com/watch?v=jn4PY74bJCw
+```
 
 ### Contributors
 ```
