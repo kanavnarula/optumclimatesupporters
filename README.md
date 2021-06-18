@@ -30,6 +30,7 @@
 ### Folder/File Details:
 - node_red_flow.json : Design/Flow diagram
 - Detailed_Document.docx : Roadmap details
+- Code: Code files
 
 
 ### Future Updates:
